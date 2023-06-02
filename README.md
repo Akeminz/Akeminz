@@ -1,10 +1,6 @@
 # Hey, I'm Akemi! 👋
 I'm a 19 year old developer.
-<hr>
 
-<img height="40" src="https://github.com/Akeminz/Akeminz/blob/main/Assets/Spain.png"/> <img height="40" src="https://github.com/Akeminz/Akeminz/blob/main/Assets/Great%20Britain.png"/>
-<hr>
-                                                                                                                                         
 ## 🔭 Currently
 I dedicate myself mostly to reinforce what I have learned and learn something new every day, I try to help in whatever way I can. It's my start on this platform, so I'll do my best in everything.
 ## 🛠 Programming Languages
@@ -26,7 +22,10 @@ HTML, HTML5, C++, C, C#, Java, JavaScript, PHP, MySQL, Python, Shell, TypeScript
 
 ## ⚡️ My domain 
 I don't like it, but I don't dislike being called “Full Stack” either. It is something relative to the specific moment. I learn everything quickly and in detail, it's my strong point, honestly, and I'm proud of it.
+<hr>
 
+<img height="40" src="https://github.com/Akeminz/Akeminz/blob/main/Assets/Spain.png"/> <img height="40" src="https://github.com/Akeminz/Akeminz/blob/main/Assets/Great%20Britain.png"/>
+<hr>
 
 ## 📫 Contact
 At the moment I do not have acceptable “Contacts”, I would put some, but they are only for personal issues, perhaps and over time I intend to create them for this, for specific things such as Support and Communication, to work together.
