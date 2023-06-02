@@ -1,9 +1,10 @@
 # Hey, I'm Akemi! 👋
 I'm a 19 year old developer.
 <hr>
-<img height="40" src="https://github.com/BoxuChan/BoxuChan/blob/main/assets/spain.png"/> <img height="40" src=https://github.com/Akeminz/Akeminz/blob/main/Assets/Great%20Britain.png
+
+<img height="40" src="https://github.com/Akeminz/Akeminz/blob/main/Assets/Spain.png"/> <img height="40" src="https://github.com/Akeminz/Akeminz/blob/main/Assets/Great%20Britain.png"/>
 <hr>
-                                                                                               
+                                                                                                                                         
 ## 🔭 Currently
 I dedicate myself mostly to reinforce what I have learned and learn something new every day, I try to help in whatever way I can. It's my start on this platform, so I'll do my best in everything.
 ## 🛠 Programming Languages
